@@ -7,4 +7,4 @@ git clone https://github.com/caralr/blockip
 chmod +x block.sh
 ./block.sh
 
-封禁ip时会要求你输入国家代码，代码查看：(http://www.ipdeny.com/ipblocks/ "点击进入")。记住所需输入的参数均为小写字母。比如JAPAN (JP)，我们就使用jp这个参数。
+封禁ip时会要求你输入国家代码，代码查看：[http://www.ipdeny.com/ipblocks/ ](#awesome-section) 。记住所需输入的参数均为小写字母。比如JAPAN (JP)，我们就使用jp这个参数。
